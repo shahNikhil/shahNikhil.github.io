@@ -92,6 +92,7 @@ input, select, textarea {
 
 	html {
 		box-sizing: border-box;
+		zoom: 69%;
 	}
 
 	*, *:before, *:after {
@@ -99,6 +100,7 @@ input, select, textarea {
 	}
 
 	body {
+		width: 100%;
 		background: #f4f4f4;
 	}
 
